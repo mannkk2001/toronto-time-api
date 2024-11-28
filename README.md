@@ -40,7 +40,7 @@ Docker Compose
 ![Screenshot 2024-11-28 at 11 40 19 AM](https://github.com/user-attachments/assets/e5deed36-c9d4-4ec1-ba4c-47cf0574af95)
 
 
-## 5. Dockerize the Application
+## 5. Dockerize the Application (Bonus Challenges)
 Create Dockerfile
 ![Screenshot 2024-11-28 at 3 08 29 PM](https://github.com/user-attachments/assets/e4bc1564-16b1-4eb7-a73c-579d6abdc46a)
 
