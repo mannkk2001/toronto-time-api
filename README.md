@@ -34,9 +34,10 @@ Docker Compose
 
 
 
-## 4. Run the Application
+## 4. Run the Application and check it on Localhost
 ![Screenshot 2024-11-28 at 9 43 54 AM](https://github.com/user-attachments/assets/800bbbcd-6ea3-43f9-9579-f8c42237aea4)
 
+![Screenshot 2024-11-28 at 11 40 19 AM](https://github.com/user-attachments/assets/e5deed36-c9d4-4ec1-ba4c-47cf0574af95)
 
 
 ## 5. Dockerize the Application
