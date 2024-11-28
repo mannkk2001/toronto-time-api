@@ -47,6 +47,7 @@ Create Dockerfile
 
 
 ## 6. Create Docker-Compose File and Run Docker Compose
+
 ![Uploading Screenshot 2024-11-28 at 3.09.36 PM.png…]()
 
 
@@ -54,4 +55,4 @@ Create Dockerfile
 
 
 
-## 7. 
+
