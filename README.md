@@ -1,4 +1,5 @@
 # Toronto Time API
+This project is a Go-based API that provides the current time in Toronto in JSON format. Each request is logged into a MySQL database. The project is containerized using Docker and can be easily deployed using Docker Compose.
 
 ##
 ## Setup and Installation
